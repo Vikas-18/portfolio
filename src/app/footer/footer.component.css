@@ -1,0 +1,17 @@
+.container {
+  display: block;
+  padding: 0.5em;
+  text-align: center;
+  background-color: rgba(233, 0, 0, 0.152);
+  z-index: 111;
+  margin-top: auto;
+  background-color: rgba(255, 255, 255, 0.152);
+}
+h5 {
+  font-family: "Roboto Slab", serif;
+}
+img {
+  padding-top: 10px;
+  padding-right: 20px;
+  width: 30px;
+}

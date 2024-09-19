@@ -1,0 +1,14 @@
+<h1>Hi There! <img class="hii" src="./assets/images/wave.gif" alt="wave" /></h1>
+<h1>I'm VIKAS KUMAR</h1>
+
+<!-- introduction -->
+<h2>Let Me Introduce Myself</h2>
+<img
+  class="avatar"
+  src="./assets/images/profilePic.jpeg"
+  alt="Profile Picture"
+/>
+<div *ngFor="let detail of details" class="skill">
+  <img class="card-image" [src]="detail.image" />
+  <p>{{ detail.para }}</p>
+</div>

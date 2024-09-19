@@ -1,0 +1,17 @@
+.logo {
+  height: 100px;
+  width: 100px;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+h3 {
+  font-family: "Roboto Slab", serif;
+}
+.container {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}

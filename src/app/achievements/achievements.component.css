@@ -1,0 +1,24 @@
+.container {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.para {
+  margin: 2rem;
+  width: 40rem;
+}
+.vigyaan {
+  width: 25rem;
+  height: 25rem;
+  border-radius: 2rem;
+}
+.leetcode {
+  width: 25rem;
+  height: 25rem;
+  border-radius: 2rem;
+}
+a {
+  text-decoration: none;
+}
