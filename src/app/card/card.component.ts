@@ -3,8 +3,8 @@ import { Component, Input } from '@angular/core';
 @Component({
   selector: 'app-card',
   templateUrl: './card.component.html',
-  styleUrl: './card.component.css'
+  styleUrl: './card.component.css',
 })
 export class CardComponent {
-   @Input() project: any;
+  @Input() project: any;
 }
